@@ -5,3 +5,5 @@ Planned to show you your chinese horoscope and element based on your date of bir
 I started this when I first started playing with Android and had planned to use fragments. I didn't get very far!
 
 Currently updating this - firstly migrating what little there is to Android Studio, then using what I know now to actually implement it
+
+UPDATE: Have abandoned this version as it was simpler to just start again.
